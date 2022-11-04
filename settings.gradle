@@ -1,0 +1,2 @@
+include ':EkasiSKool'
+rootProject.name='EkasiSkoolApp'
